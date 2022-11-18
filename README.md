@@ -1,2 +1,0 @@
-# jprental
-JP Rental
